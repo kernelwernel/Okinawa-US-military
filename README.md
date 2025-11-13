@@ -4,9 +4,9 @@
 
 ## Context 
 
-This is a project I started because of my university dissertation on the presence of US bases in Okinawa, Japan, and one of the sections is about the geographical areas of where the territorial boundaries are located and analysing the data.
+This is a project I started because of my university dissertation on the presence of US bases in Okinawa, Japan, and one of the sections is about the geographical areas of where the territorial boundaries are located and analysing the data. I think this is the most accurate map on this topic ever made.
 
-I spent approximately 50 hours in total manually mapping the areas while binge listening to Nujabes (10/10 experience btw, would recommend). I did lose around 2 days worth of work due to a saving error and I'm probably on some sort of watchlist by now, but it was all worth it :trollface:
+I spent approximately 50 hours in total manually mapping the areas while binge listening to Nujabes (10/10 experience btw, would recommend). Although I did lose around 2 days worth of work due to a saving error and I'm probably on some sort of watchlist by now, it was all worth it :trollface:
 
 
 <br>
@@ -29,12 +29,12 @@ The satellite imagery was sometimes fuzzy and impossible to view with the human 
 (show example here)
 
 
-## What is included and what is omitted
-There's many categories that I can classify for what was mapped:
+## What is included and what isn't
+There's many categories that I can classify for the bases mapped:
   1. Fully enclosed within fences
   2. Enclosed with an unfenced coastline
-  3. Island territory with no fences and nothing on it
-  4. Designated territory with no fences and nothing on it (I'll explain below)
+  3. Island territory with no fences and no construction
+  4. Designated territory with no fences and no construction (I'll explain below)
   5. Maritime territory
 
 I didn't include the many territories that were "designated" but publicly accessible. For example:
@@ -42,6 +42,10 @@ I didn't include the many territories that were "designated" but publicly access
 | Mod website | Google streetview | Explanation |
 (show examples of this phenomenon with the Ie Jima road and the parking lot in Kadena I think)
 
-The only exception to this is Kume Jima Range, because despite being tiny, unfenced, and desolate, it has its own unique entry in the Japanese MoD website unlike the examples I showed above.
+The only exception to this is Kume Jima Range because despite being tiny, unfenced, and desolate, it has its own unique entry in the Japanese MoD website unlike the examples I showed above. This is the sole example for the 4th category.
 
 ## Data for nerds:
+
+
+## Credits 
+Feel free to use this data however you like, credit is not strictly necessary since I consider my work to be in the public domain (but a mention/link to this repo would be appreciated). 
