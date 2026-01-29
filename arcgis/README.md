@@ -1,0 +1,2 @@
+> ![WARNING]
+> I forgot to convert the area from m² to km² in the attribute tables for all the bases, airspaces, and waterspaces. This was my mistake, so keep this in mind if you're ever going to open the workspace.
