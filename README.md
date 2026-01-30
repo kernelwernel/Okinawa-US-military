@@ -1,4 +1,7 @@
-   <img src="assets/okinawa.png" align="center" width="500" title="Okinawa US military base map">
+<div align="center">
+   <img src="assets/okinawa.jpg" width="500" title="Okinawa US military base map">
+</div>
+<br>
 
 - - -
 
