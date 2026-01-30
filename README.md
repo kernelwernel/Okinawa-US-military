@@ -1,6 +1,8 @@
-(add logo here when i make one)
+   <img src="assets/okinawa.png" align="center" width="500" title="Okinawa US military base map">
 
-![map](map/okinawa_us_base_map.jpg)
+- - -
+
+![map](map/okinawa_us_base_map.png)
 
 ## Context 
 
@@ -14,9 +16,10 @@ The goal of this repository is to provide the best and most reliable source of i
 
 ## Challenges and motivation
 
-I found that many sources have missing bases, inaccurate borders, and conflicting reports. A lot of previously done maps on this topic have their problems as well with the aforementioned issues. Even the official Japanese Ministry of Defense website had missing bases that still exists in the present, not to mention it completely discards historical ones while showing legal borders of control instead of physical fencelines that align with realistic observations.
 
-So to accompany this, I did my best to compile the correct details and discarded the incorrect ones from each source I could find to make it as accurate as possible. 
+Every map on this topic have many issues, such as missing bases, inaccurate borders, lack of base detail, missing airspaces/waterspaces, disregard for historical demolished bases, and conflicting reports.  Even the official Japanese Ministry of Defense website have these problems while showing legal borders of control instead of physical fencelines that align with realistic observations.
+
+This motivated me to create one single encompassing map that fixes all the issues while providing quantitative and historical data on each U.S. base that ever existed. So to accompany this, I did my best to compile the correct details and discarded the incorrect ones from each source I could find to make it as accurate as possible. 
 
 I spent approximately 150+ hours in total manually mapping the areas while binge listening to Nujabes (10/10 experience btw, would recommend). Although I did lose around 2 days worth of work due to a saving error and I'm probably on some sort of watchlist by now, it was definitely worth it :trollface:
 
@@ -31,21 +34,11 @@ The satellite imagery was sometimes fuzzy and impossible to view with the human 
 (show example here)
 
 
-## What is included and what isn't
-There's many categories that I can classify for the bases mapped:
-  1. Fully enclosed within fences
-  2. Enclosed with an unfenced coastline
-  3. Island territory with no fences and no construction
-  4. Designated territory with no fences and no construction (I'll explain below)
-  5. Maritime territory
+## Data and sources
 
-I didn't include the many territories that were "designated" but publicly accessible. For example:
+All the data is provided in the data_tables folder for [bases](data_tables/all_bases.xlsx) and [airspaces/waterspaces](data_tables/all_spaces.xlsx)
 
-| Mod website | Google streetview | Explanation |
-(show examples of this phenomenon with the Ie Jima road and the parking lot in Kadena I think)
-
-The only exception to this is Kume Jima Range because despite being tiny, unfenced, and desolate, it has its own unique entry in the Japanese MoD website unlike the examples I showed above. This is the sole example for the 4th category.
-
+The majority of the sources were taken from the Japanese Wikipedia articles regarding every base. Each of them are documented on the source column of base data, but they include various different sources includes those of declassified CIA documents.
 
 
 ## Credits 
