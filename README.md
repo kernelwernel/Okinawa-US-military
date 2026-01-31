@@ -14,20 +14,15 @@ This is a project I started because of my university dissertation on the presenc
 
 The goal of this repository is to provide the best and most reliable source of information on this topic by providing a historical and geographical database that existed from 1945 to 2026 for researchers and historians to rely on.
 
-
-<br>
-
-## Challenges and motivation
-
 Every map on this topic has many issues, such as missing bases, inaccurate borders, lack of base detail, missing airspaces/waterspaces, omittance of previously existing bases that were demolished, and conflicting reports. Even the official Japanese Ministry of Defense website has these problems, while showing legal borders of control instead of physical fencelines that align with realistic observations on the ground.
 
 This motivated me to create one single encompassing map that fixes all the aforementioned issues while providing quantitative and historical data on each U.S. base that has ever existed. So to accompany this, I did my best to compile the correct details and discarded the incorrect ones from each source I could find to make it as accurate as possible from my own research. 
 
-I visited Okinawa in 2025 (travel photos shown on the banner of this README), and I spent approximately 150+ hours in total manually mapping the areas using ArcGIS while binge listening to Nujabes. 10/10 experience btw, would highly recommend. Although I did lose around 2 days worth of work due to a saving error and I'm probably on some sort of watchlist by now, it was definitely worth it :trollface:
+I visited Okinawa in 2025 (travel photos shown on the banner of this README), and I spent approximately 150+ hours in total manually mapping the areas using ArcGIS while binge listening to Nujabes. 10/10 experience btw, would highly recommend. Although I'm most likely on some sort of watchlist by now, it was definitely worth it :)
 
 <br>
 
-## Mapping methodology
+# Mapping methodology
 
 The tracing is done by using 4 methodologies, each with varying advantages and disadvantages. This is done through a fall back system, where if the most reliable metholodgy isn't good enough for the specific area that's being mapped, then it goes down a level of reliability as seen here:
 
@@ -60,7 +55,7 @@ The tracing is done by using 4 methodologies, each with varying advantages and d
 </details>
 
 
-## Quantitative data and sources
+# Quantitative data and sources
 
 **Historical overview (1945-2026):**
 | Area category | Number of bases/zones | Total perimeter length | Total area |
@@ -275,3 +270,7 @@ Overall, 120 bases took up 350 km² of Okinawan territory has been used for mili
 All the data and additional information is provided in the data_tables folder for [bases](data_tables/all_bases.xlsx) and [airspaces/waterspaces](data_tables/all_spaces.xlsx). There is also an optional copy in csv format.
 
 The majority of the sources were taken from the Japanese Wikipedia articles regarding every base. Each of them are documented on the source column of base data, but they include various different sources which includes those of declassified CIA documents.
+
+
+# Credits
+Made my kernelwernel, crediting my work is not strictly necessary since I consider this to be in the public domain, but a mention/link to this repository would be appreicated!
