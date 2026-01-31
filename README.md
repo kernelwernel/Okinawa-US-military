@@ -29,15 +29,35 @@ I visited Okinawa in 2025 (travel photos shown on the banner of this README), an
 
 ## Mapping methodology
 
-Most of the mapping was done by viewing previous maps to view the general shape and area of the target base, then trace the borders through installations of the fences using a combination of google maps, google streetview, and ArcGIS. 
-
-The satellite imagery was sometimes fuzzy and impossible to view with the human eye, but google maps and ArcGIS both have varying clarity depending on the area and time. The difference in time when it was taken is also a very important detail, because the sun is casting shadows at different angles, and sometimes the fences can be found and identified this way.
+The tracing is done by using 4 methodologies, each with varying advantages and disadvantages. This is done through a fall back system, where if the most reliable metholodgy isn't good enough for the specific area that's being mapped, then it goes down a level of reliability as seen here:
 
 <div align="center">
 <img src="assets/pyramid.png" width="500" title="Okinawa tracing methodology pyramid">
 </div>
 
+<details>
+<summary>Show</summary>
 
+
+1. **Direct tracing:** tracing the fencelines using satellite imagery is the main method to map the bases, and there are 2 main resources used for this. Firstly, ArcGIS's default satellite imagery is used to follow and trace the fencelines as objectively as possible. However, ArcGIS's resource on its satellite imagery can be outdated, and the quality can be poor at times. This is where Google Maps is used as a secondary reference tool to confirm the presence of fences in clearer quality. It also has the additional benefit of being taken when the sun is projecting sunlight at an angle where the fences can appear white rather than black as seen on ArcGIS. This makes identification far easier, so that tracing using ArcGIS and Google Maps can play in tandem as the tracing tool for the former, and the visual confirmation tool for the latter. While an estimated 60% of the map was created this way, this method is not always reliable due to reasons such as poor image quality in some areas, fence colours that are too obscure, and fences being hidden by dense vegetation and jungle trees. 
+
+2. **Google Street View:** To solve the issue of the first methodology, Google Street View may be used to manually observe fences being placed next to roads which is a common placement for the base fences. This visual confirmation has been reliably useful at times, but some fences are not situated next to roads. However, Google Street View is not entirely useless in this case, because volunteer users and online tour guides can submit their own images to the service in places where it wouldn't be possible from roads. For example, Torii Station is an Army base located on the west coast of Okinawa, but the satellite imagery's quality for the bottom left section was too poor for the human eye to discern any fences. Using user-submitted images, many sections of the unknown borders could be spotted through user submissions of the beach adjacent to the base, and visual confirmations could be made using this method of mapping. Additionally, users on Google Maps can post reviews of the places they've visited, which can sometimes include images they've attached themselves. These images can sometimes provide many insights into the geometric details at the ground level, and fences may be spotted depending on the angle and frame. This open source format can be useful, but it often falls short mainly due to reasons stemming from lack of user submissions of the area of interest. 
+
+3. **Georeferencing:** If Google Street View isn’t useful for the base that’s being mapped, existing maps on U.S. military bases in Okinawa are used to copy the outlines to our map. The reason why this is the third most reliable methodology is because the maps can often be inaccurate, imprecise, and incomplete. Not only do the maps only show the legally U.S.-owned territories instead of fenceline borders, they also have inconsistencies between the resources being used and they can often be inaccurate in multiple ways. While the pre-existing maps themselves are a useful starting point to have an idea where the target base is located, which military branch it belongs to, and what its general shape may look like, they are not reliable enough for mapping material. Nonetheless, if it was deemed appropriate to fall back to this option, the map resource will be used as a georeference layer with control points to distort the source map to the target map that was being made. A third-order polynomial was used to morph and match the reference map to the target map as a transparent layer using control points to precise locations on the target map (such as corners of buildings, corners of airport landing strips, road intersections, etc). This method allows us to not only solve the issue of mismatched coordinate systems to warp it correctly, but also accurately and reliably trace over the borders as seen in the reference. However, along with the aforementioned downsides, this method is only an approximation of the fencelines, not a direct trace based on confirmable real-world images. Below is an example for mapping Camp Zukeran Radio Station with this method:
+
+| Online map reference | Georeference used | Traced result |
+| -------------------- | ----------------- | ------------- |
+| ![georeference](assets/georeference.png) | ![geo trace](assets/geo_trace.png) | ![trace](assets/trace.png) |
+
+
+4. **Aerial visual-ground tracing:** Lastly, if all else fails, aerial photographs are used. Some of the early bases do not have any maps associated with them that were archived or found online. However, some U.S. archives do contain aerial photographs of them, requiring the base outline to be manually traced through visual ground coordination. There are many problems with this approach, such as bad image quality, photograph angles that make georeferencing difficult to trace mentioned in the method above, and limited details on spatial geographical data. For example, Camp Kubasaki fell under this methodology category due to the scarcity of details, on top of many undocumented details surrounding it. The image shown below was taken between 1957 and 1959, and it is situated in a village called Nakagusuku. Geolocating it was not easy, as the image shown has a coastline that doesn’t appear to match with the present coastline. This also demonstrates one of the problems of this methodology of changes in geographical and topological features over time, making it harder to give exact geolocations. Overall, this is considered as the least reliable method of mapping as it is nearly guaranteed to have inaccuracies, making the tracing an approximation rather than a concrete shape that aligns with historical reality.
+
+| Aerial photograph reference | Traced result |
+| --------------------------- | ------------- |
+| ![kubasaki](assets/kubasaki.png) | ![pickle](assets/pickle.png) |
+
+
+</details>
 
 
 ## Quantitative data and sources
