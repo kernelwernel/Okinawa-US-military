@@ -1,0 +1,121 @@
+OBJECTID,BASE_NAME,BRANCH,CREATION_DATE,DEMOLITION_DATE,FACILITY_CODE,PERIMETER_KM,AREA_METERS2
+1,Naha Air Force and Navy Auxiliary Facilities,Air Force & Navy,1945-01-01,1980-01-01,FAC 6066,10.732,4159.975
+2,Kadena Airbase,Air Force,1945-01-01,,FAC 6037,27.316,24770.225
+3,Okuma Recreational Area,Air Force,1947-01-01,,FAC 6004,4.572,625.359
+4,Senaha Communication Site,Air Force,1945-01-01,2006-01-01,FAC 6021,5.078,758.148
+5,Kobi Sho Range (Air Force administration),Air Force,1948-01-01,1956-01-01,FAC 6084,3.816,1025.598
+6,Yaedake Communication Site,Air Force,1950-01-01,,FAC 6006,0.862,20.865
+7,Irisuna Jima Firing Range,Air Force,1954-01-01,,FAC 6078,2.365,324.023
+8,Kume Jima Range,Air Force,1978-01-01,,FAC 6080,0.214,2.75
+9,Tori Shima Firing Range,Air Force,1951-01-01,,FAC 6077,1.059,28.011
+10,Machinato Housing Area,Air Force,1977-02-28,1987-01-01,FAC 6061,6.725,2702.967
+11,Naha Freezer Warehouse,Air Force,1978-03-15,1993-01-01,FAC 6062,1.539,130.953
+12,Bolo Airfield,Air Force,1945-01-01,1972-01-01,FAC 6021,14.408,4449.177
+13,Bolo Point Shooting Range Nike Hercules Site 1,Air Force,1945-01-01,1974-01-01,FAC 6021,1.036,47.352
+14,Bolo Point Shooting Range Kadena 1st Site Mace B,Air Force,1945-01-01,1974-06-30,FAC 6021,0.763,35.623
+15,Sunabe Warehouse,Air Force,1967-01-01,1993-01-01,FAC 6039,0.383,8.881
+16,Miyako Jima Air Communication Facility,Air Force,1950-01-01,1973-02-15,FAC 6287,3.537,440.653
+17,Kadena Residential Area,Air Force,1945-01-01,1977-11-30,FAC 6038,1.308,104.55
+18,Kadena Ammunition Depot District,Air Force,1945-01-01,,FAC 6022,71.727,33307.158
+19,Naha Port Facility,Army,1945-01-01,,FAC 6064,6.402,581.288
+20,Torii Station,Army,1945-01-01,,FAC 6036,6.795,2138.393
+21,Kadena Airbase,Army,1945-01-01,,FAC 6037,1.151,59.684
+22,White Beach Oil Storage Facility,Army,1945-01-01,,FAC 6048,3.463,245.28
+23,Zukeran Radio Station,Army,1945-01-01,1976-01-01,FAC 6045,1.999,153.137
+24,Torii Station Radio Antenna,Army,1945-01-01,,FAC 6036,0.264,2.726
+25,Gesaji Communication Site (incomplete),Army,1995-01-01,2015-02-27,FAC 6007,3.498,782.866
+26,Tengan Communication Site,Army,1945-01-01,1983-01-01,FAC 6030,4.658,1221.632
+27,Deragawa Communication Station,Army,1945-01-01,1974-01-01,FAC 6034,3.505,366.223
+28,Machinato Service Office,Army,1945-01-01,1974-01-01,FAC 6055,0.216,1.928
+29,Machinato Warehouse,Army,1945-01-01,1974-01-01,FAC 6054,0.223,2.276
+30,Urasoe Warehouse,Army,1945-01-01,1975-01-01,FAC 6059,0.611,22.651
+31,Machinato Purchasing and Contracting Office,Army,1945-01-01,1974-01-01,FAC 6058,0.427,10.945
+32,Machinato Supply District Auxiliary Facility,Army,1968-01-01,1993-01-01,FAC 6057,0.21,2.458
+33,Camp Mercy,Army,1945-01-01,1974-01-01,FAC 6053,2.527,306.247
+34,Harborview Club,Army,1945-01-01,1972-01-01,FAC 6063,0.572,15.941
+35,Yozadake Air Station,Army,1945-01-01,1976-01-01,FAC 6272,3.135,217.412
+36,Camp McTureous,Army,1945-01-01,1957-01-01,FAC 6031,2.82,464.916
+37,Chinen 2nd Site,Army,1945-01-01,1973-01-01,FAC 6269,3.212,324.436
+38,Chinen 1st Site,Army,1945-01-01,1973-01-01,FAC 6268,1.436,131.393
+39,Southern Ammunition Depot,Army,1945-01-01,1977-01-01,FAC 6075,3.02,231.886
+40,Corps of Engineers Office,Army,1968-01-01,2002-01-01,FAC 6060,1.068,75.465
+41,Awase Storage Area,Army,1945-01-01,1973-01-01,FAC 6049,1.281,80.332
+42,Kashiji Army Annex,Army,1954-01-01,1976-01-01,FAC 6041,0.901,21.541
+43,Army POL Depot Kinbu No. 2 Tank Farm,Army,1945-01-01,,FAC 6076,2.12,164.768
+44,Army POL Depot Kinbu No. 1 Tank Farm,Army,1945-01-01,,FAC 6076,2.532,205.85
+45,Army POL Depot Kuwae Tank Farm No. 1,Army,1945-01-01,,FAC 6076,2.245,161.704
+46,Army POL Depot Kuwae Tank Farm No. 2,Army,1945-01-01,,FAC 6076,2.727,266.229
+47,Army POL Depot Kinbu No. 3 Tank Farm,Army,1945-01-01,,FAC 6076,3.276,288.178
+48,Army POL Depot Tengan Booster Station,Army,1945-01-01,,FAC 6076,,
+49,Army POL Depot Kuwae Booster Station,Army,1945-01-01,,FAC 6076,,
+50,White Beach Katsuren Peninsula Army District (Hawk),Army,1945-01-01,1972-01-01,FAC 6048,1.047,44.558
+51,White Beach Kadena 2nd Site (Mace),Army,1945-01-01,1976-12-31,FAC 6048,0.627,26.028
+52,White Beach Nishihara 2nd Army Auxiliary Facility,Army,1945-01-01,1973-01-01,FAC 6048,0.583,25.573
+53,Nishihara Army Auxiliary Facility (Nike) B Site,Army,1959-01-01,1973-05-01,FAC 6047,0.727,30.95
+54,Nishihara Army Auxiliary Facility (Nike) A Site,Army,1959-01-01,1974-01-01,FAC 6047,0.838,33.698
+55,Kumejima Air Communication Facility,Army,1950-01-01,1973-01-01,FAC 6279,3.361,116.287
+56,Yozadake Site,Army,1945-01-01,1973-01-01,FAC 6273,1.652,127.49
+57,Yozadake Army Auxiliary Facility,Army,1945-01-01,1974-01-01,FAC 6074,0.87,49.471
+58,Machinato Housing Area,Army,1953-01-01,1977-02-28,FAC 6061,6.725,2702.967
+59,Miyako Jima Voltac Site,Army,1956-01-01,1973-01-01,FAC 6286,2.008,268.651
+60,Namihara Army Annex,Army,1945-01-01,1974-01-01,FAC 6035,1.127,87.195
+61,Naha Service Center,Army,1945-01-01,1978-09-30,FAC 6065,0.692,27.533
+62,Naha Site,Army,1945-01-01,1973-01-01,FAC 6267,2.742,164.705
+63,Naha Freezer Warehouse,Army,1945-01-01,1978-03-15,FAC 6062,1.539,130.953
+64,Yomitan Army Auxiliary Facility,Army,1960-01-01,1974-01-01,FAC 6025,1.357,97.379
+65,Sunabe Army Annex,Army,1945-01-01,1977-01-01,FAC 6040,0.775,35.505
+66,Koza Communication Facility,Army,1945-01-01,1973-01-01,FAC 6042,0.31,2.097
+67,Yaka Rest Center,Army,1945-01-01,1974-01-15,FAC 6018,0.951,57.466
+68,Chika Site,Army,1945-01-01,1996-01-01,FAC 6023,2.082,283.049
+69,Camp Kubasaki,Army,1945-01-01,1981-01-01,FAC 6050,2.032,168.143
+70,White Beach Training Area,Navy,1945-01-01,,FAC 6048,9.025,953.887
+71,Awase Communication Station,Navy,1945-04-01,,FAC 6046,3.214,599.124
+72,Sobe Communication Site,Navy,1945-01-01,2006-01-01,FAC 6026,3.054,605.754
+73,Camp Shields,Navy,1950-01-01,,FAC 6032,6.389,835.522
+74,Yonabaru Airfield,Navy,1945-05-01,1947-06-30,UNKNOWN,9.652,4716.135
+75,Sekibi Sho Range,Navy,1956-01-01,,FAC 6085,2.5,58.809
+76,Kobi Sho Range (Navy administration),Navy,1956-01-01,,FAC 6084,3.816,1025.598
+77,Oki Daito Jima Range,Navy,1958-01-01,,FAC 6088,4.778,1474.081
+78,Gesaji Communication Site (incomplete),Navy,1962-01-01,1995-01-01,FAC 6007,3.498,782.866
+79,Camp Boone,Navy,1945-01-01,1974-01-01,FAC 6053,1.731,180.549
+80,Kume Jima Range,Navy,1962-01-01,1978-01-01,FAC 6080,0.214,2.75
+81,Naha Naval Air Facility,Navy,1945-01-01,1975-01-01,FAC 6089,12.38,3727.286
+82,MCAS Futenma,Marine Corps,1945-01-01,,FAC 6051,12.616,5814.372
+83,Camp Kinser,Marine Corps,1949-01-01,,FAC 6056,8.77,3230.308
+84,Camp Schwab (coast),Marine Corps,1959-01-01,,FAC 6009,10.963,2129.355
+85,Kin Blue Training Area,Marine Corps,1972-01-01,,FAC 6020,4.727,471.993
+86,Camp Courtney,Marine Corps,1956-01-01,,FAC 6029,13.793,1638.079
+87,Ukibaru Jima Training Area,Marine Corps,1972-01-01,,FAC 6181,3.841,368.364
+88,Tsuken Jima Training Area,Marine Corps,1945-01-01,,FAC 6082,1.505,17.546
+89,Tengan Pier,Marine Corps,1945-01-01,,FAC 6028,2.133,29.083
+90,Henoko Ordnance Ammunition Depot,Marine Corps,1959-01-01,,FAC 6010,6.603,846.177
+91,Camp McTureous,Marine Corps,1957-01-01,,FAC 6031,2.82,464.916
+92,Northern Training Area,Marine Corps,1958-01-01,,FAC 6001,88.867,44584.495
+93,Ie Jima Auxiliary Airfield,Marine Corps,1943-01-01,,FAC 6005,22.688,10711.012
+94,Camp Foster,Marine Corps,1945-01-01,,FAC 6044,31.86,6046.772
+95,Camp Schwab (estimate),Marine Corps,1959-01-01,,FAC 6009,22.514,24219.663
+96,Yomitan Auxiliary Airfield,Marine Corps,1944-01-01,2006-01-01,FAC 6027,7.328,2453.868
+97,Camp Lester,Marine Corps,1945-01-01,,FAC 6043,6.048,758.854
+98,Old Northern Training Area,Marine Corps,1958-01-01,2016-12-01,FAC 6001,153.445,56484.171
+99,Kin Red Beach Training Area,Marine Corps,1962-01-01,,FAC 6019,0.72,13.356
+100,Gimbaru Training Area,Marine Corps,1957-01-01,2011-07-31,FAC 6017,3.916,750.554
+101,Hisashi Training Area,Marine Corps,1957-01-01,1974-03-31,FAC 6112,2.405,152.708
+102,Ishikawa Army Auxiliary Facility,Marine Corps,1957-01-01,1974-01-01,FAC 6024,1.181,42.928
+103,Camp Hague,Marine Corps,1945-01-01,1977-01-01,FAC 6033,3.545,739.757
+104,Aha Training Area,Marine Corps,1945-01-01,1998-01-01,FAC 6102,13.415,6470.6
+105,Onna Communication Site,Marine Corps,1953-01-01,1996-01-01,FAC 6013,4.098,725.164
+106,Camp Hardy,Marine Corps,1945-01-01,1977-01-01,FAC 6014,7.192,2587.085
+107,Chinen Service Area,Marine Corps,1945-01-01,1974-01-01,FAC 6071,6.959,2475.995
+108,Maejima Training Ground,Marine Corps,1945-01-01,1972-05-14,FAC 6083,13.718,2398.934
+109,Iha Castle Hotel,Marine Corps,1971-01-01,1979-01-01,FAC 6090,1.517,60.01
+110,Naha Service Center,Marine Corps,1978-09-30,1995-01-01,FAC 6065,0.692,27.533
+111,Camp Hansen,Marine Corps,1945-01-01,,FAC 6011,78.502,59628.427
+112,Yaka Rest Center,Marine Corps,1974-01-15,1979-08-31,FAC 6018,0.951,57.466
+113,Onna Site,Marine Corps,1953-01-01,1975-01-01,FAC 6215,2.774,186.195
+114,Awase Golf Course,Marine Corps,1948-01-01,2010-07-31,FAC 6044,4.981,582.04
+115,Kawata Training Area,UNINCORPORATED,1945-01-01,1971-01-01,"""No. 3""",13.035,5157.092
+116,Sedake Training Area,UNINCORPORATED,1945-01-01,1971-01-01,"""No. 8""",3.398,569.706
+117,VOA (Voice Of America) Manzamo,UNINCORPORATED,1951-01-01,1977-01-01,NONE,4.086,657.968
+118,VOA (Voice Of America) Okuma,UNINCORPORATED,1951-01-01,1978-01-01,NONE,4.068,1153.448
+119,Shinzato Communication Site,UNKNOWN,1945-01-01,1974-01-01,NONE,2.952,207.641
+120,VOA (Voice Of America) Chatan,UNINCORPORATED,1951-01-01,1977-01-01,NONE,,
