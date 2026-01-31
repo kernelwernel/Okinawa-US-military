@@ -14,7 +14,7 @@ This is a project I started because of my university dissertation on the presenc
 
 The goal of this repository is to provide the best and most reliable source of information on this topic by providing a historical and geographical database that existed from 1945 to 2026 for researchers and historians to rely on.
 
-Every map on this topic has many issues, such as missing bases, inaccurate borders, lack of base detail, missing airspaces/waterspaces, omittance of previously existing bases that were demolished, and conflicting reports. Even the official Japanese Ministry of Defense website has these problems, while showing legal borders of control instead of physical fencelines that align with realistic observations on the ground.
+Every map that has ever been made on this topic has many issues, such as missing bases, inaccurate borders, lack of base detail, missing airspaces/waterspaces, omittance of previously existing bases that were demolished, and conflicting reports. Even the official Japanese Ministry of Defense website has these problems, while showing legal borders of control instead of physical fencelines that align with realistic observations on the ground.
 
 This motivated me to create one single encompassing map that fixes all the aforementioned issues while providing quantitative and historical data on each U.S. base that has ever existed. So to accompany this, I did my best to compile the correct details and discarded the incorrect ones from each source I could find to make it as accurate as possible from my own research. 
 
@@ -83,7 +83,7 @@ The tracing is done by using 4 methodologies, each with varying advantages and d
 
 <br>
 
-Overall, 120 bases took up 350 km² of Okinawan territory has been used for military purposes by the U.S. since the Battle of Okinawa in 1945. For reference, Okinawa's total land area is only 1199 km², meaning that 29.1% of the island's land was designated as belonging to the U.S. military. It is worth noting that this figure includes demolished bases that don't exist anymore. Presently, only 40 of them are still standing which is 228.9 km² of territory as of 2026, which is a total reduction of 34.6%. This also means that 19% of total Okinawan inland territory is still in use today. 
+Overall, 120 bases took up 350 km² of Okinawan territory has been used for military purposes by the U.S. since the Battle of Okinawa in 1945. For reference, Okinawa's total land area is only 1199 km², meaning that 29.1% of the island's land was designated as belonging to the U.S. military. It is worth noting that this figure includes demolished bases that don't exist anymore. Presently, only 40 of them are still standing which is 228.9 km² of territory as of 2026, which is a total reduction of 34.6%. This also means that 19% of total Okinawan inland territory is still in use for the same purposes today. 
 
 **Complete base table:**
 <details>
