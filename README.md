@@ -265,4 +265,4 @@ The majority of the sources were taken from the Japanese Wikipedia articles rega
 
 
 # Credits
-Made my kernelwernel. Crediting my work is not strictly necessary since I consider this to be in the public domain, but a mention/link to this repository would be appreciated!
+Made by kernelwernel, crediting my work is not strictly necessary since I consider this to be in the public domain, but a mention/link to this repository would be appreciated!
