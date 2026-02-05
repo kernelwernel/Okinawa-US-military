@@ -24,7 +24,7 @@ I visited Okinawa in 2025 (travel photos shown on the banner of this README), an
 
 # Mapping methodology
 
-The tracing is done by using 4 methodologies, each with varying advantages and disadvantages. This is done through a fall back system, where if the most reliable metholodgy isn't good enough for the specific area that's being mapped, then it goes down a level of reliability as seen here:
+The tracing was done by using 4 methodologies, each with varying advantages and disadvantages. This is done through a fallback system, where the most reliable metholodgy will be used but if it isn't good enough for the specific area that's being mapped, then it goes down a level of reliability as seen here:
 
 <div align="center">
 <img src="assets/pyramid.png" width="500" title="Okinawa tracing methodology pyramid">
@@ -86,8 +86,6 @@ The tracing is done by using 4 methodologies, each with varying advantages and d
 Overall, 120 bases took up 350 km² of Okinawan territory has been used for military purposes by the U.S. since the Battle of Okinawa in 1945. For reference, Okinawa's total land area is only 1199 km², meaning that 29.1% of the island's land was designated as belonging to the U.S. military. It is worth noting that this figure includes demolished bases that don't exist anymore. Presently, only 40 of them are still standing which is 228.9 km² of territory as of 2026, which is a total reduction of 34.6%. This also means that 19% of total Okinawan inland territory is still in use for the same purposes today. 
 
 **Complete base table:**
-<details>
-<summary>Show</summary>
 
 |   OBJECTID | BASE_NAME                                           | BRANCH           | CREATION_DATE   | DEMOLITION_DATE   | FACILITY_CODE   |   PERIMETER_KM |  AREA_METERS² |
 |-----------:|:----------------------------------------------------|:-----------------|:----------------|:------------------|:----------------|---------------:|---------------:|
@@ -212,14 +210,10 @@ Overall, 120 bases took up 350 km² of Okinawan territory has been used for mili
 |        119 | Shinzato Communication Site                         | UNKNOWN          | 1945-01-01      | 1974-01-01        | NONE            |          2.952 |        207.641 |
 |        120 | VOA (Voice Of America) Chatan                       | UNINCORPORATED   | 1951-01-01      | 1977-01-01        | NONE            |        nan     |        nan     |
 
-</details>
-
 
 <br>
 
 **Complete airspace/waterspace table:**
-<details>
-<summary>Show</summary>
 
 |   OBJECTID | BASE_NAME                               | BORDER_TYPE       |   PERIMETER_KM |      AREA_METERS² |
 |-----------:|:----------------------------------------|:------------------|---------------:|------------------:|
@@ -262,8 +256,6 @@ Overall, 120 bases took up 350 km² of Okinawan territory has been used for mili
 |         37 | Idesuna Jima Airspace                   | MARITIME          |        116.665 | 801872            |
 |         38 | Oki Daito Jima Water Area and Air Space | MARITIME_AIRSPACE |         35.87  | 102388            |
 
-</details>
-
 <br>
 
 
@@ -273,4 +265,4 @@ The majority of the sources were taken from the Japanese Wikipedia articles rega
 
 
 # Credits
-Made my kernelwernel, crediting my work is not strictly necessary since I consider this to be in the public domain, but a mention/link to this repository would be appreciated!
+Made my kernelwernel. Crediting my work is not strictly necessary since I consider this to be in the public domain, but a mention/link to this repository would be appreciated!
