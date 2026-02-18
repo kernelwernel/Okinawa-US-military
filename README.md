@@ -259,10 +259,10 @@ Overall, 120 bases took up 350 km² of Okinawan territory has been used for mili
 <br>
 
 
-All the data and additional information is provided in the data_tables folder for [bases](data_tables/excel/all_bases.xlsx) and [airspaces/waterspaces](data_tables/excel/ll_spaces.xlsx). There is also an optional copy in csv format.
+All the data and additional information is provided in the data_tables folder for [bases](data_tables/excel/all_bases.xlsx) and [airspaces/waterspaces](data_tables/excel/ll_spaces.xlsx) in excel files. There is also an optional copy in csv format.
 
 The majority of the sources were taken from the Japanese Wikipedia articles regarding every base. Each of them are documented on the source column of base data, but they include various different sources which includes those of declassified CIA documents.
 
 
 # Credits
-Made by kernelwernel, crediting my work is not strictly necessary since I consider this to be in the public domain, but a mention/link to this repository would be appreciated!
+Made by kernelwernel, 2026. Crediting my work is not strictly necessary since I consider this to be in the public domain, but a mention/link to this repository would be appreciated!
